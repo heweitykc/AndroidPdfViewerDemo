@@ -1,0 +1,24 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.xhh.pdfui" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="14"
+6-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="26" />
+7-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+8
+9    <application>
+9-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:5:5-9:19
+10        <activity android:name="com.xhh.pdfui.PDFPreviewActivity" />
+10-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:6:9-65
+10-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:6:19-53
+11        <activity android:name="com.xhh.pdfui.PDFCatelogueActivity" />
+11-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:7:9-58
+11-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:7:19-55
+12        <activity android:name="com.xhh.pdfui.PDFActivity" />
+12-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:8:9-49
+12-->I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:8:19-46
+13    </application>
+14
+15</manifest>

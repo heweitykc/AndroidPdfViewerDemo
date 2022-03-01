@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+		INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:5:5-9:19
+activity#com.xhh.pdfui.PDFPreviewActivity
+ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:6:9-65
+	android:name
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:6:19-53
+activity#com.xhh.pdfui.PDFCatelogueActivity
+ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:7:9-58
+	android:name
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:7:19-55
+activity#com.xhh.pdfui.PDFActivity
+ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:8:9-49
+	android:name
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml:8:19-46
+uses-sdk
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+		INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+		ADDED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml
+		INJECTED from I:\Work\AndroidPdfViewerDemo\AndroidPdfViewerDemo\pdfui\src\main\AndroidManifest.xml

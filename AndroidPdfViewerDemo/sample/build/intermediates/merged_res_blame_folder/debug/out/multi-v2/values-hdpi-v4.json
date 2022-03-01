@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "I:\\Work\\AndroidPdfViewerDemo\\AndroidPdfViewerDemo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "H:\\Gradle\\caches\\transforms-3\\678d579f1a26d14a8967004aebd921f3\\transformed\\appcompat-v7-26.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
